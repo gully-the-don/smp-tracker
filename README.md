@@ -14,4 +14,4 @@ Logs sleep, water intake, and steps count. Predict goal achievements using a tra
   Prediction: Hit goal(88% confidence)
   Coach: Strong inputs, strong outputs. Baseline is locked in.
             STACK
-  .Python   . Scikit-learn  . Pandas  .FastAPI
+     .Python   . Scikit-learn  . Pandas  .FastAPI
